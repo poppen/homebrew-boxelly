@@ -1,7 +1,7 @@
 class MacvimKaoriya < Cask
-  url 'https://macvim-kaoriya.googlecode.com/files/macvim-kaoriya-20131126.dmg'
+  url 'https://github.com/splhack/macvim/releases/download/20140805/macvim-kaoriya-20140805.dmg'
   homepage 'https://code.google.com/p/macvim-kaoriya/'
-  version '20131126'
-  sha1 '9908b98f79c5bbaf77f9444958f2416faf6fbf1f'
+  version '20140805'
+  sha1 '1587551a823f9dd85bf5ea09c58b8bcd0b29a1cb'
   link 'MacVim.app'
 end
