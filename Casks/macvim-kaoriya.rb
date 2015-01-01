@@ -6,5 +6,6 @@ cask :v1 => 'macvim-kaoriya' do
   homepage 'https://code.google.com/p/macvim-kaoriya/'
   license :oss
 
-  link 'MacVim.app'
+  app '201412004/MacVim.app'
+  binary '20141204/MacVim.app/Contents/MacOS/mvim'
 end
